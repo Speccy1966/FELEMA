@@ -1,0 +1,33 @@
+# This is a test input deck for FERRET
+# This is a comment line
+# Written 14/7/94 ...
+# format :-
+# x1 y1
+# x2 y2
+# x3 y3
+# x4 y4
+# distance from middle of l.h. edge to centre of electrode
+# thickness of cathode ring
+# height of electrode
+# angle of electrode to vertical (degrees)
+# measured voltage difference
+# electrolyte conductivity
+# underrelaxation factor
+# no of points around perimeter
+# no of points along radius
+# maximum number of iterations for solver
+0.0     0.0
+0.02    0.0
+0.02    0.04
+0.0     0.04
+0.01
+0.00085
+0.005
+20
+-4.85
+13.0
+0.3
+20
+10
+50
+
